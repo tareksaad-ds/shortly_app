@@ -1,7 +1,9 @@
 function Footer() {
   return (
-    <div>Footer</div>
-  )
+    <footer className="footer">
+      <p>© 2023 Shortly. All rights reserved.</p>
+    </footer>
+  );
 }
 
-export default Footer
+export default Footer;

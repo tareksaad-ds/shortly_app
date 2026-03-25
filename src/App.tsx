@@ -1,11 +1,10 @@
-import './App.css'
-import CTA from './CTA'
-import Features from './Features'
-import Footer from './Footer'
-import Header from './Header'
+import './App.css';
+import CTA from './CTA';
+import Features from './Features';
+import Footer from './Footer';
+import Header from './Header';
 
 function App() {
-
   return (
     <>
       <Header />
@@ -13,7 +12,7 @@ function App() {
       <CTA />
       <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
